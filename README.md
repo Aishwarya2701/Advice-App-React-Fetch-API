@@ -1,3 +1,6 @@
+![image](https://github.com/Aishwarya2701/Advice-App-React-Fetch-API/assets/74247717/ff99f2c5-af68-40f8-ad5a-d4a51f6c6188)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
